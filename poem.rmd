@@ -15,7 +15,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+Little Birds are dining  
+Warily and well,  
+Hid in mossy cell:  
+Hid, I say, by waiters  
+Gorgeous in their gaiters -  
+I've a Tale to tell.  
+  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -24,3 +30,14 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+I find no peace, and all my war is done.  
+I fear and hope. I burn and freeze like ice.  
+I fly above the wind, yet can I not arise;  
+And nought I have, and all the world I seize on.  
+That loseth nor locketh holdeth me in prison  
+And holdeth me not—yet can I scape no wise—  
+Nor letteth me live nor die at my device,  
+And yet of death it giveth me occasion.  
+Without eyen I see, and without tongue I plain.  
+I desire to perish, and yet I ask health.  
+  
